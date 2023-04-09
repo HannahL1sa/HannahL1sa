@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hannah-Lisa Whittle</h1>
 <h3 align="center">An aspiring fullstack developer</h3>
 
-- 💬 Ask me about **react,vue.js,flask**
+- 💬 Ask me about **react, vue.js, flask**
 
 - ⚡ Fun fact **I am great at drawing**
 
