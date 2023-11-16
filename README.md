@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah-Lisa Whittle</h1>
-<h3 align="center">An aspiring fullstack developer from Jamaica</h3>
+<h3 align="center">An aspiring full-stack developer from Jamaica</h3>
 
 - 📫 How to reach me **whittlehannahlisa@gmail.com**
 
